@@ -1,0 +1,8 @@
+C:\Pro2024\PrvaAplikacija\PrvaAplikacija\bin\Debug\PrvaAplikacija.exe.config
+C:\Pro2024\PrvaAplikacija\PrvaAplikacija\bin\Debug\PrvaAplikacija.exe
+C:\Pro2024\PrvaAplikacija\PrvaAplikacija\bin\Debug\PrvaAplikacija.pdb
+C:\Pro2024\PrvaAplikacija\PrvaAplikacija\obj\Debug\PrvaAplikacija.csproj.AssemblyReference.cache
+C:\Pro2024\PrvaAplikacija\PrvaAplikacija\obj\Debug\PrvaAplikacija.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\PrvaAplikacija\PrvaAplikacija\obj\Debug\PrvaAplikacija.csproj.CoreCompileInputs.cache
+C:\Pro2024\PrvaAplikacija\PrvaAplikacija\obj\Debug\PrvaAplikacija.exe
+C:\Pro2024\PrvaAplikacija\PrvaAplikacija\obj\Debug\PrvaAplikacija.pdb
