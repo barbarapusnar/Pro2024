@@ -1,0 +1,8 @@
+C:\Pro2024\NaštevniTipi\NaštevniTipi\bin\Debug\NaštevniTipi.exe.config
+C:\Pro2024\NaštevniTipi\NaštevniTipi\bin\Debug\NaštevniTipi.exe
+C:\Pro2024\NaštevniTipi\NaštevniTipi\bin\Debug\NaštevniTipi.pdb
+C:\Pro2024\NaštevniTipi\NaštevniTipi\obj\Debug\NaštevniTipi.csproj.AssemblyReference.cache
+C:\Pro2024\NaštevniTipi\NaštevniTipi\obj\Debug\NaštevniTipi.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\NaštevniTipi\NaštevniTipi\obj\Debug\NaštevniTipi.csproj.CoreCompileInputs.cache
+C:\Pro2024\NaštevniTipi\NaštevniTipi\obj\Debug\NaštevniTipi.exe
+C:\Pro2024\NaštevniTipi\NaštevniTipi\obj\Debug\NaštevniTipi.pdb

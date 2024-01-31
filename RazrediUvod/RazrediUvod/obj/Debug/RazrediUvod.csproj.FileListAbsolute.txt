@@ -1,0 +1,8 @@
+C:\Pro2024\RazrediUvod\RazrediUvod\bin\Debug\RazrediUvod.exe.config
+C:\Pro2024\RazrediUvod\RazrediUvod\bin\Debug\RazrediUvod.exe
+C:\Pro2024\RazrediUvod\RazrediUvod\bin\Debug\RazrediUvod.pdb
+C:\Pro2024\RazrediUvod\RazrediUvod\obj\Debug\RazrediUvod.csproj.AssemblyReference.cache
+C:\Pro2024\RazrediUvod\RazrediUvod\obj\Debug\RazrediUvod.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\RazrediUvod\RazrediUvod\obj\Debug\RazrediUvod.csproj.CoreCompileInputs.cache
+C:\Pro2024\RazrediUvod\RazrediUvod\obj\Debug\RazrediUvod.exe
+C:\Pro2024\RazrediUvod\RazrediUvod\obj\Debug\RazrediUvod.pdb

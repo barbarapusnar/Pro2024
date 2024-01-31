@@ -1,0 +1,8 @@
+C:\Pro2024\Enkapsulacija\Enkapsulacija\bin\Debug\Enkapsulacija.exe.config
+C:\Pro2024\Enkapsulacija\Enkapsulacija\bin\Debug\Enkapsulacija.exe
+C:\Pro2024\Enkapsulacija\Enkapsulacija\bin\Debug\Enkapsulacija.pdb
+C:\Pro2024\Enkapsulacija\Enkapsulacija\obj\Debug\Enkapsulacija.csproj.AssemblyReference.cache
+C:\Pro2024\Enkapsulacija\Enkapsulacija\obj\Debug\Enkapsulacija.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\Enkapsulacija\Enkapsulacija\obj\Debug\Enkapsulacija.csproj.CoreCompileInputs.cache
+C:\Pro2024\Enkapsulacija\Enkapsulacija\obj\Debug\Enkapsulacija.exe
+C:\Pro2024\Enkapsulacija\Enkapsulacija\obj\Debug\Enkapsulacija.pdb
