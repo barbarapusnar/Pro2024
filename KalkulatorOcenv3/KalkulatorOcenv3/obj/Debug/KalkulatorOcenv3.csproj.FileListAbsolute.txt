@@ -1,0 +1,8 @@
+C:\Pro2024\KalkulatorOcenv3\KalkulatorOcenv3\bin\Debug\KalkulatorOcenv3.exe.config
+C:\Pro2024\KalkulatorOcenv3\KalkulatorOcenv3\bin\Debug\KalkulatorOcenv3.exe
+C:\Pro2024\KalkulatorOcenv3\KalkulatorOcenv3\bin\Debug\KalkulatorOcenv3.pdb
+C:\Pro2024\KalkulatorOcenv3\KalkulatorOcenv3\obj\Debug\KalkulatorOcenv3.csproj.AssemblyReference.cache
+C:\Pro2024\KalkulatorOcenv3\KalkulatorOcenv3\obj\Debug\KalkulatorOcenv3.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\KalkulatorOcenv3\KalkulatorOcenv3\obj\Debug\KalkulatorOcenv3.csproj.CoreCompileInputs.cache
+C:\Pro2024\KalkulatorOcenv3\KalkulatorOcenv3\obj\Debug\KalkulatorOcenv3.exe
+C:\Pro2024\KalkulatorOcenv3\KalkulatorOcenv3\obj\Debug\KalkulatorOcenv3.pdb

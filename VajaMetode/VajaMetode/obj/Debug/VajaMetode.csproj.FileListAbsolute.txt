@@ -1,0 +1,8 @@
+C:\Pro2024\VajaMetode\VajaMetode\bin\Debug\VajaMetode.exe.config
+C:\Pro2024\VajaMetode\VajaMetode\bin\Debug\VajaMetode.exe
+C:\Pro2024\VajaMetode\VajaMetode\bin\Debug\VajaMetode.pdb
+C:\Pro2024\VajaMetode\VajaMetode\obj\Debug\VajaMetode.csproj.AssemblyReference.cache
+C:\Pro2024\VajaMetode\VajaMetode\obj\Debug\VajaMetode.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\VajaMetode\VajaMetode\obj\Debug\VajaMetode.csproj.CoreCompileInputs.cache
+C:\Pro2024\VajaMetode\VajaMetode\obj\Debug\VajaMetode.exe
+C:\Pro2024\VajaMetode\VajaMetode\obj\Debug\VajaMetode.pdb

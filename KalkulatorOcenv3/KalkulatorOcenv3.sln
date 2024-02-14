@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulatorOcenv3", "KalkulatorOcenv3\KalkulatorOcenv3.csproj", "{58B198DD-5631-4B74-BF20-811F6D204DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B198DD-5631-4B74-BF20-811F6D204DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B198DD-5631-4B74-BF20-811F6D204DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B198DD-5631-4B74-BF20-811F6D204DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B198DD-5631-4B74-BF20-811F6D204DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13AB0C5A-A7BD-475A-9A51-8E0F9576D6D1}
+	EndGlobalSection
+EndGlobal

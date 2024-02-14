@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EAF62154-6D12-4C36-944F-CD62D30334C3}</ProjectGuid>
+    <ProjectGuid>{F1500A36-8521-4981-B2FD-C92233DFD1DA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Dedovanje</RootNamespace>
-    <AssemblyName>Dedovanje</AssemblyName>
+    <RootNamespace>VajaAbs</RootNamespace>
+    <AssemblyName>VajaAbs</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Delavec.cs" />
-    <Compile Include="LDelavec.cs" />
+    <Compile Include="DelavecBazni.cs" />
+    <Compile Include="DelavecNaUro.cs" />
+    <Compile Include="IVarnost.cs" />
+    <Compile Include="LetniDelavec.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

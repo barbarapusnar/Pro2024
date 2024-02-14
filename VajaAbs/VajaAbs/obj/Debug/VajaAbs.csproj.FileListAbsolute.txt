@@ -1,0 +1,8 @@
+C:\Pro2024\VajaAbs\VajaAbs\bin\Debug\VajaAbs.exe.config
+C:\Pro2024\VajaAbs\VajaAbs\bin\Debug\VajaAbs.exe
+C:\Pro2024\VajaAbs\VajaAbs\bin\Debug\VajaAbs.pdb
+C:\Pro2024\VajaAbs\VajaAbs\obj\Debug\VajaAbs.csproj.AssemblyReference.cache
+C:\Pro2024\VajaAbs\VajaAbs\obj\Debug\VajaAbs.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\VajaAbs\VajaAbs\obj\Debug\VajaAbs.csproj.CoreCompileInputs.cache
+C:\Pro2024\VajaAbs\VajaAbs\obj\Debug\VajaAbs.exe
+C:\Pro2024\VajaAbs\VajaAbs\obj\Debug\VajaAbs.pdb

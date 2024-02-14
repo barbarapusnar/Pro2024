@@ -1,0 +1,8 @@
+C:\Pro2024\Tabele2D\Tabele2D\bin\Debug\Tabele2D.exe.config
+C:\Pro2024\Tabele2D\Tabele2D\bin\Debug\Tabele2D.exe
+C:\Pro2024\Tabele2D\Tabele2D\bin\Debug\Tabele2D.pdb
+C:\Pro2024\Tabele2D\Tabele2D\obj\Debug\Tabele2D.csproj.AssemblyReference.cache
+C:\Pro2024\Tabele2D\Tabele2D\obj\Debug\Tabele2D.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\Tabele2D\Tabele2D\obj\Debug\Tabele2D.csproj.CoreCompileInputs.cache
+C:\Pro2024\Tabele2D\Tabele2D\obj\Debug\Tabele2D.exe
+C:\Pro2024\Tabele2D\Tabele2D\obj\Debug\Tabele2D.pdb

@@ -1,0 +1,8 @@
+C:\Pro2024\Karte\Karte\bin\Debug\Karte.exe.config
+C:\Pro2024\Karte\Karte\bin\Debug\Karte.exe
+C:\Pro2024\Karte\Karte\bin\Debug\Karte.pdb
+C:\Pro2024\Karte\Karte\obj\Debug\Karte.csproj.AssemblyReference.cache
+C:\Pro2024\Karte\Karte\obj\Debug\Karte.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\Karte\Karte\obj\Debug\Karte.csproj.CoreCompileInputs.cache
+C:\Pro2024\Karte\Karte\obj\Debug\Karte.exe
+C:\Pro2024\Karte\Karte\obj\Debug\Karte.pdb

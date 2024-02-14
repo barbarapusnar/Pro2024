@@ -1,0 +1,8 @@
+C:\Pro2024\VjaRazredi\VjaRazredi\bin\Debug\VjaRazredi.exe.config
+C:\Pro2024\VjaRazredi\VjaRazredi\bin\Debug\VjaRazredi.exe
+C:\Pro2024\VjaRazredi\VjaRazredi\bin\Debug\VjaRazredi.pdb
+C:\Pro2024\VjaRazredi\VjaRazredi\obj\Debug\VjaRazredi.csproj.AssemblyReference.cache
+C:\Pro2024\VjaRazredi\VjaRazredi\obj\Debug\VjaRazredi.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\VjaRazredi\VjaRazredi\obj\Debug\VjaRazredi.csproj.CoreCompileInputs.cache
+C:\Pro2024\VjaRazredi\VjaRazredi\obj\Debug\VjaRazredi.exe
+C:\Pro2024\VjaRazredi\VjaRazredi\obj\Debug\VjaRazredi.pdb

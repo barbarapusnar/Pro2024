@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EAF62154-6D12-4C36-944F-CD62D30334C3}</ProjectGuid>
+    <ProjectGuid>{E0226848-BB16-4EB6-AA9A-A6A63216CAB0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Dedovanje</RootNamespace>
-    <AssemblyName>Dedovanje</AssemblyName>
+    <RootNamespace>KraljestvoŽivali</RootNamespace>
+    <AssemblyName>KraljestvoŽivali</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Delavec.cs" />
-    <Compile Include="LDelavec.cs" />
+    <Compile Include="IGovor.cs" />
+    <Compile Include="Mačka.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test.cs" />
+    <Compile Include="Žival.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
