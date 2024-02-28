@@ -1,0 +1,11 @@
+C:\Pro2024\PrvoOkno\PrvoOkno\bin\Debug\PrvoOkno.exe.config
+C:\Pro2024\PrvoOkno\PrvoOkno\bin\Debug\PrvoOkno.exe
+C:\Pro2024\PrvoOkno\PrvoOkno\bin\Debug\PrvoOkno.pdb
+C:\Pro2024\PrvoOkno\PrvoOkno\obj\Debug\PrvoOkno.csproj.AssemblyReference.cache
+C:\Pro2024\PrvoOkno\PrvoOkno\obj\Debug\PrvoOkno.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\PrvoOkno\PrvoOkno\obj\Debug\PrvoOkno.Form1.resources
+C:\Pro2024\PrvoOkno\PrvoOkno\obj\Debug\PrvoOkno.Properties.Resources.resources
+C:\Pro2024\PrvoOkno\PrvoOkno\obj\Debug\PrvoOkno.csproj.GenerateResource.cache
+C:\Pro2024\PrvoOkno\PrvoOkno\obj\Debug\PrvoOkno.csproj.CoreCompileInputs.cache
+C:\Pro2024\PrvoOkno\PrvoOkno\obj\Debug\PrvoOkno.exe
+C:\Pro2024\PrvoOkno\PrvoOkno\obj\Debug\PrvoOkno.pdb

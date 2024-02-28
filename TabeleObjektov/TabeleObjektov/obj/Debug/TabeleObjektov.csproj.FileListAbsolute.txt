@@ -1,0 +1,8 @@
+C:\Pro2024\TabeleObjektov\TabeleObjektov\bin\Debug\TabeleObjektov.exe.config
+C:\Pro2024\TabeleObjektov\TabeleObjektov\bin\Debug\TabeleObjektov.exe
+C:\Pro2024\TabeleObjektov\TabeleObjektov\bin\Debug\TabeleObjektov.pdb
+C:\Pro2024\TabeleObjektov\TabeleObjektov\obj\Debug\TabeleObjektov.csproj.AssemblyReference.cache
+C:\Pro2024\TabeleObjektov\TabeleObjektov\obj\Debug\TabeleObjektov.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\TabeleObjektov\TabeleObjektov\obj\Debug\TabeleObjektov.csproj.CoreCompileInputs.cache
+C:\Pro2024\TabeleObjektov\TabeleObjektov\obj\Debug\TabeleObjektov.exe
+C:\Pro2024\TabeleObjektov\TabeleObjektov\obj\Debug\TabeleObjektov.pdb

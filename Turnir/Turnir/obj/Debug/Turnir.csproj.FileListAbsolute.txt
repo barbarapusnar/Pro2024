@@ -1,0 +1,8 @@
+C:\Pro2024\Turnir\Turnir\bin\Debug\Turnir.exe.config
+C:\Pro2024\Turnir\Turnir\bin\Debug\Turnir.exe
+C:\Pro2024\Turnir\Turnir\bin\Debug\Turnir.pdb
+C:\Pro2024\Turnir\Turnir\obj\Debug\Turnir.csproj.AssemblyReference.cache
+C:\Pro2024\Turnir\Turnir\obj\Debug\Turnir.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\Turnir\Turnir\obj\Debug\Turnir.csproj.CoreCompileInputs.cache
+C:\Pro2024\Turnir\Turnir\obj\Debug\Turnir.exe
+C:\Pro2024\Turnir\Turnir\obj\Debug\Turnir.pdb

@@ -1,0 +1,8 @@
+C:\Pro2024\Izjeme\Izjeme\bin\Debug\Izjeme.exe.config
+C:\Pro2024\Izjeme\Izjeme\bin\Debug\Izjeme.exe
+C:\Pro2024\Izjeme\Izjeme\bin\Debug\Izjeme.pdb
+C:\Pro2024\Izjeme\Izjeme\obj\Debug\Izjeme.csproj.AssemblyReference.cache
+C:\Pro2024\Izjeme\Izjeme\obj\Debug\Izjeme.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\Izjeme\Izjeme\obj\Debug\Izjeme.csproj.CoreCompileInputs.cache
+C:\Pro2024\Izjeme\Izjeme\obj\Debug\Izjeme.exe
+C:\Pro2024\Izjeme\Izjeme\obj\Debug\Izjeme.pdb
