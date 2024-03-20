@@ -1,0 +1,23 @@
+﻿<Window x:Class="MešanjeBarve.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MešanjeBarve"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Slider x:Name="sldRdeča" HorizontalAlignment="Left" Margin="45,40,0,0" VerticalAlignment="Top" Width="442" Maximum="255" SmallChange="1" TickPlacement="TopLeft" LargeChange="10" IsSnapToTickEnabled="True" ValueChanged="sldRdeča_ValueChanged"/>
+        <Slider x:Name="sldZelena" HorizontalAlignment="Left" Margin="45,80,0,0" VerticalAlignment="Top" Width="442" Maximum="255" SmallChange="1" TickPlacement="TopLeft" LargeChange="10" IsSnapToTickEnabled="True" ValueChanged="sldZelena_ValueChanged"/>
+        <Slider x:Name="sldModra" HorizontalAlignment="Left" Margin="45,120,0,0" VerticalAlignment="Top" Width="442" Maximum="255" SmallChange="1" TickPlacement="TopLeft" LargeChange="10" IsSnapToTickEnabled="True" ValueChanged="sldModra_ValueChanged"/>
+        <Label Content="Rdeča" HorizontalAlignment="Left" Margin="532,40,0,0" VerticalAlignment="Top"/>
+        <Label Content="Zelena" HorizontalAlignment="Left" Margin="532,80,0,0" VerticalAlignment="Top"/>
+        <Label Content="Modra" HorizontalAlignment="Left" Margin="532,120,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtRdeča" HorizontalAlignment="Left" Margin="614,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="56" Text="{Binding Value, ElementName=sldRdeča}"/>
+        <TextBox x:Name="txtZelena" HorizontalAlignment="Left" Margin="614,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="56" RenderTransformOrigin="0.518,2.384" Text="{Binding Value, ElementName=sldZelena}"/>
+        <TextBox x:Name="txtModra" HorizontalAlignment="Left" Margin="614,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="56" Text="{Binding Value, ElementName=sldModra}"/>
+        <Rectangle x:Name="p1" HorizontalAlignment="Left" Height="180" Margin="45,201,0,0" Stroke="Black" VerticalAlignment="Top" Width="442" RenderTransformOrigin="0.5,0.5" Fill="#FFA5D478">
+            
+        </Rectangle>
+    </Grid>
+</Window>

@@ -66,14 +66,66 @@ namespace Turnir
                     }
                 }
             }
+            
         }
         public void VnesiKolo(int kolo)
-        { 
-        //ponovi za vse pare tega kola
+        {
+            //ponovi za vse pare tega kola
             // rač izpiše prvi par kola Slovenija:Italija
             //uporabnik vnese rezultat v obliki 2:3
-
-        //izpiši vse ekipe
+            Console.WriteLine(kolo + ". kolo");
+            for (int k = 0; k < 10; k++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    if (pari[k, j] == kolo)
+                    {
+                        //ekipa k in j se srečata v tem kolu
+                        Console.WriteLine(liga[k].Ime + " : " + liga[j].Ime);
+                        //vnesi rezultat v obliki 2:3
+                        string r = Console.ReadLine();//"2:3"
+                        string[] vsi=r.Split(':');//vsi[0] so goli prve ekipe
+                        int goli1 = int.Parse(vsi[0]);
+                        int goli2 = int.Parse(vsi[1]);
+                        liga[k].VpisRezultata(goli1, goli2);
+                        liga[j].VpisRezultata(goli2, goli1);
+                    }
+                }
+            }
+            //izpiši vse ekipe
+            //najprej uredi tabelo
+            Ekipa[] urejena = new Ekipa[10];
+            //urejena = liga; NIKOLI NE DELAJ TEGA
+            for (int k = 0; k < 10; k++)
+            {
+                urejena[k] = liga[k];
+            }
+            //uredi 
+            for (int k = 0; k < 10; k++)
+            {
+                //izberi najboljšo ekipo od k do konca tabele
+                Ekipa max = urejena[k];
+                int maxindeks = k;
+                for (int j = k + 1; j < 10; j++)
+                {
+                    if (urejena[j].BoljšaEkipa(max)) //namesto >
+                    {
+                        max = urejena[j];
+                        maxindeks = j;
+                    }
+                }
+                //zamenjaj jo s prvo od preostanka
+                Ekipa temp = urejena[k];
+                urejena[k] = urejena[maxindeks];
+                urejena[maxindeks] = temp;
+            }
+            Console.WriteLine("Rezultati");
+            Console.WriteLine("*************************");
+            for (int k = 0; k < 10; k++)
+            {
+                Console.WriteLine( urejena[k].Izpis());
+            }
+            Console.WriteLine("*************************");
         }
         //dodatno
         //sortiraj tabelo liga v smislu BoljšaEkipa, spet izpiši

@@ -1,0 +1,11 @@
+C:\Pro2024\BranjePisanje\BranjePisanje\bin\Debug\BranjePisanje.exe.config
+C:\Pro2024\BranjePisanje\BranjePisanje\bin\Debug\BranjePisanje.exe
+C:\Pro2024\BranjePisanje\BranjePisanje\bin\Debug\BranjePisanje.pdb
+C:\Pro2024\BranjePisanje\BranjePisanje\obj\Debug\BranjePisanje.csproj.AssemblyReference.cache
+C:\Pro2024\BranjePisanje\BranjePisanje\obj\Debug\BranjePisanje.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\BranjePisanje\BranjePisanje\obj\Debug\BranjePisanje.Form1.resources
+C:\Pro2024\BranjePisanje\BranjePisanje\obj\Debug\BranjePisanje.Properties.Resources.resources
+C:\Pro2024\BranjePisanje\BranjePisanje\obj\Debug\BranjePisanje.csproj.GenerateResource.cache
+C:\Pro2024\BranjePisanje\BranjePisanje\obj\Debug\BranjePisanje.csproj.CoreCompileInputs.cache
+C:\Pro2024\BranjePisanje\BranjePisanje\obj\Debug\BranjePisanje.exe
+C:\Pro2024\BranjePisanje\BranjePisanje\obj\Debug\BranjePisanje.pdb

@@ -1,0 +1,17 @@
+C:\Pro2024\Koncerti\Koncerti\bin\Debug\Koncerti.exe.config
+C:\Pro2024\Koncerti\Koncerti\bin\Debug\Koncerti.exe
+C:\Pro2024\Koncerti\Koncerti\bin\Debug\Koncerti.pdb
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\Koncerti.csproj.AssemblyReference.cache
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\Koncerti.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\MainWindow.g.cs
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\App.g.cs
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\Koncerti_MarkupCompile.cache
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\Koncerti_MarkupCompile.lref
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\MainWindow.baml
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\Koncerti.g.resources
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\Koncerti.Properties.Resources.resources
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\Koncerti.csproj.GenerateResource.cache
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\Koncerti.csproj.CoreCompileInputs.cache
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\Koncerti.exe
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\Koncerti.pdb
+C:\Pro2024\Koncerti\Koncerti\obj\Debug\GeneratedInternalTypeHelper.g.cs

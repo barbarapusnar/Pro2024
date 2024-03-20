@@ -1,0 +1,17 @@
+C:\Pro2024\Izpit1naloga\Izpit1naloga\bin\Debug\Izpit1naloga.exe.config
+C:\Pro2024\Izpit1naloga\Izpit1naloga\bin\Debug\Izpit1naloga.exe
+C:\Pro2024\Izpit1naloga\Izpit1naloga\bin\Debug\Izpit1naloga.pdb
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\Izpit1naloga.csproj.AssemblyReference.cache
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\Izpit1naloga.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\MainWindow.g.cs
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\App.g.cs
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\Izpit1naloga_MarkupCompile.cache
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\Izpit1naloga_MarkupCompile.lref
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\MainWindow.baml
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\Izpit1naloga.g.resources
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\Izpit1naloga.Properties.Resources.resources
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\Izpit1naloga.csproj.GenerateResource.cache
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\Izpit1naloga.csproj.CoreCompileInputs.cache
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\Izpit1naloga.exe
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\Izpit1naloga.pdb
+C:\Pro2024\Izpit1naloga\Izpit1naloga\obj\Debug\GeneratedInternalTypeHelper.g.cs

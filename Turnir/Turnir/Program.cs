@@ -11,7 +11,7 @@ namespace Turnir
         static void Main(string[] args)
         {
             NogometnaLiga a = new NogometnaLiga();
-            a.IzpisTurnirja();
+            a.VnesiKolo(1);
             Console.ReadLine();
         }
     }

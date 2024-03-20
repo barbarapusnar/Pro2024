@@ -1,0 +1,11 @@
+C:\Pro2024\ExpressPaint\ExpressPaint\bin\Debug\ExpressPaint.exe.config
+C:\Pro2024\ExpressPaint\ExpressPaint\bin\Debug\ExpressPaint.exe
+C:\Pro2024\ExpressPaint\ExpressPaint\bin\Debug\ExpressPaint.pdb
+C:\Pro2024\ExpressPaint\ExpressPaint\obj\Debug\ExpressPaint.csproj.AssemblyReference.cache
+C:\Pro2024\ExpressPaint\ExpressPaint\obj\Debug\ExpressPaint.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\ExpressPaint\ExpressPaint\obj\Debug\ExpressPaint.Form1.resources
+C:\Pro2024\ExpressPaint\ExpressPaint\obj\Debug\ExpressPaint.Properties.Resources.resources
+C:\Pro2024\ExpressPaint\ExpressPaint\obj\Debug\ExpressPaint.csproj.GenerateResource.cache
+C:\Pro2024\ExpressPaint\ExpressPaint\obj\Debug\ExpressPaint.csproj.CoreCompileInputs.cache
+C:\Pro2024\ExpressPaint\ExpressPaint\obj\Debug\ExpressPaint.exe
+C:\Pro2024\ExpressPaint\ExpressPaint\obj\Debug\ExpressPaint.pdb

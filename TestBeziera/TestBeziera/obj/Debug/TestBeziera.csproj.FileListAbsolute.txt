@@ -1,0 +1,14 @@
+C:\Pro2024\TestBeziera\TestBeziera\bin\Debug\TestBeziera.exe.config
+C:\Pro2024\TestBeziera\TestBeziera\bin\Debug\TestBeziera.exe
+C:\Pro2024\TestBeziera\TestBeziera\bin\Debug\TestBeziera.pdb
+C:\Pro2024\TestBeziera\TestBeziera\bin\Debug\BezierKrivulja.dll
+C:\Pro2024\TestBeziera\TestBeziera\bin\Debug\BezierKrivulja.pdb
+C:\Pro2024\TestBeziera\TestBeziera\obj\Debug\TestBeziera.csproj.AssemblyReference.cache
+C:\Pro2024\TestBeziera\TestBeziera\obj\Debug\TestBeziera.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\TestBeziera\TestBeziera\obj\Debug\TestBeziera.Form1.resources
+C:\Pro2024\TestBeziera\TestBeziera\obj\Debug\TestBeziera.Properties.Resources.resources
+C:\Pro2024\TestBeziera\TestBeziera\obj\Debug\TestBeziera.csproj.GenerateResource.cache
+C:\Pro2024\TestBeziera\TestBeziera\obj\Debug\TestBeziera.csproj.CoreCompileInputs.cache
+C:\Pro2024\TestBeziera\TestBeziera\obj\Debug\TestBeziera.csproj.CopyComplete
+C:\Pro2024\TestBeziera\TestBeziera\obj\Debug\TestBeziera.exe
+C:\Pro2024\TestBeziera\TestBeziera\obj\Debug\TestBeziera.pdb

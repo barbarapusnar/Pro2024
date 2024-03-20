@@ -1,0 +1,11 @@
+C:\Pro2024\DatotečniSistem\DatotečniSistem\bin\Debug\DatotečniSistem.exe.config
+C:\Pro2024\DatotečniSistem\DatotečniSistem\bin\Debug\DatotečniSistem.exe
+C:\Pro2024\DatotečniSistem\DatotečniSistem\bin\Debug\DatotečniSistem.pdb
+C:\Pro2024\DatotečniSistem\DatotečniSistem\obj\Debug\DatotečniSistem.csproj.AssemblyReference.cache
+C:\Pro2024\DatotečniSistem\DatotečniSistem\obj\Debug\DatotečniSistem.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\DatotečniSistem\DatotečniSistem\obj\Debug\DatotečniSistem.Form1.resources
+C:\Pro2024\DatotečniSistem\DatotečniSistem\obj\Debug\DatotečniSistem.Properties.Resources.resources
+C:\Pro2024\DatotečniSistem\DatotečniSistem\obj\Debug\DatotečniSistem.csproj.GenerateResource.cache
+C:\Pro2024\DatotečniSistem\DatotečniSistem\obj\Debug\DatotečniSistem.csproj.CoreCompileInputs.cache
+C:\Pro2024\DatotečniSistem\DatotečniSistem\obj\Debug\DatotečniSistem.exe
+C:\Pro2024\DatotečniSistem\DatotečniSistem\obj\Debug\DatotečniSistem.pdb

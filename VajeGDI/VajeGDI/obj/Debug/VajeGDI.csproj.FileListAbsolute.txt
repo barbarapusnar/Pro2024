@@ -1,0 +1,11 @@
+C:\Pro2024\VajeGDI\VajeGDI\bin\Debug\VajeGDI.exe.config
+C:\Pro2024\VajeGDI\VajeGDI\bin\Debug\VajeGDI.exe
+C:\Pro2024\VajeGDI\VajeGDI\bin\Debug\VajeGDI.pdb
+C:\Pro2024\VajeGDI\VajeGDI\obj\Debug\VajeGDI.csproj.AssemblyReference.cache
+C:\Pro2024\VajeGDI\VajeGDI\obj\Debug\VajeGDI.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\VajeGDI\VajeGDI\obj\Debug\VajeGDI.Form1.resources
+C:\Pro2024\VajeGDI\VajeGDI\obj\Debug\VajeGDI.Properties.Resources.resources
+C:\Pro2024\VajeGDI\VajeGDI\obj\Debug\VajeGDI.csproj.GenerateResource.cache
+C:\Pro2024\VajeGDI\VajeGDI\obj\Debug\VajeGDI.csproj.CoreCompileInputs.cache
+C:\Pro2024\VajeGDI\VajeGDI\obj\Debug\VajeGDI.exe
+C:\Pro2024\VajeGDI\VajeGDI\obj\Debug\VajeGDI.pdb

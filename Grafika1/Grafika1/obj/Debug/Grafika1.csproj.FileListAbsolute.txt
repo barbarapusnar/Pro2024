@@ -1,0 +1,11 @@
+C:\Pro2024\Grafika1\Grafika1\bin\Debug\Grafika1.exe.config
+C:\Pro2024\Grafika1\Grafika1\bin\Debug\Grafika1.exe
+C:\Pro2024\Grafika1\Grafika1\bin\Debug\Grafika1.pdb
+C:\Pro2024\Grafika1\Grafika1\obj\Debug\Grafika1.csproj.AssemblyReference.cache
+C:\Pro2024\Grafika1\Grafika1\obj\Debug\Grafika1.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\Grafika1\Grafika1\obj\Debug\Grafika1.Form1.resources
+C:\Pro2024\Grafika1\Grafika1\obj\Debug\Grafika1.Properties.Resources.resources
+C:\Pro2024\Grafika1\Grafika1\obj\Debug\Grafika1.csproj.GenerateResource.cache
+C:\Pro2024\Grafika1\Grafika1\obj\Debug\Grafika1.csproj.CoreCompileInputs.cache
+C:\Pro2024\Grafika1\Grafika1\obj\Debug\Grafika1.exe
+C:\Pro2024\Grafika1\Grafika1\obj\Debug\Grafika1.pdb

@@ -1,0 +1,16 @@
+C:\Pro2024\MešanjeBarve\MešanjeBarve\bin\Debug\MešanjeBarve.exe.config
+C:\Pro2024\MešanjeBarve\MešanjeBarve\bin\Debug\MešanjeBarve.exe
+C:\Pro2024\MešanjeBarve\MešanjeBarve\bin\Debug\MešanjeBarve.pdb
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\MešanjeBarve.csproj.AssemblyReference.cache
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\MešanjeBarve.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\MainWindow.g.cs
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\App.g.cs
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\MešanjeBarve_MarkupCompile.cache
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\MešanjeBarve_MarkupCompile.lref
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\MainWindow.baml
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\MešanjeBarve.g.resources
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\MešanjeBarve.Properties.Resources.resources
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\MešanjeBarve.csproj.GenerateResource.cache
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\MešanjeBarve.csproj.CoreCompileInputs.cache
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\MešanjeBarve.exe
+C:\Pro2024\MešanjeBarve\MešanjeBarve\obj\Debug\MešanjeBarve.pdb

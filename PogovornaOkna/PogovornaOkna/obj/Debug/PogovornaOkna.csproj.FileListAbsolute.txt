@@ -1,0 +1,11 @@
+C:\Pro2024\PogovornaOkna\PogovornaOkna\bin\Debug\PogovornaOkna.exe.config
+C:\Pro2024\PogovornaOkna\PogovornaOkna\bin\Debug\PogovornaOkna.exe
+C:\Pro2024\PogovornaOkna\PogovornaOkna\bin\Debug\PogovornaOkna.pdb
+C:\Pro2024\PogovornaOkna\PogovornaOkna\obj\Debug\PogovornaOkna.csproj.AssemblyReference.cache
+C:\Pro2024\PogovornaOkna\PogovornaOkna\obj\Debug\PogovornaOkna.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\PogovornaOkna\PogovornaOkna\obj\Debug\PogovornaOkna.Form1.resources
+C:\Pro2024\PogovornaOkna\PogovornaOkna\obj\Debug\PogovornaOkna.Properties.Resources.resources
+C:\Pro2024\PogovornaOkna\PogovornaOkna\obj\Debug\PogovornaOkna.csproj.GenerateResource.cache
+C:\Pro2024\PogovornaOkna\PogovornaOkna\obj\Debug\PogovornaOkna.csproj.CoreCompileInputs.cache
+C:\Pro2024\PogovornaOkna\PogovornaOkna\obj\Debug\PogovornaOkna.exe
+C:\Pro2024\PogovornaOkna\PogovornaOkna\obj\Debug\PogovornaOkna.pdb

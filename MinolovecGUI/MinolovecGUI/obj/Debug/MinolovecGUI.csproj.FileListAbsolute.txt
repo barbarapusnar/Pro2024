@@ -1,0 +1,11 @@
+C:\Pro2024\MinolovecGUI\MinolovecGUI\bin\Debug\MinolovecGUI.exe.config
+C:\Pro2024\MinolovecGUI\MinolovecGUI\bin\Debug\MinolovecGUI.exe
+C:\Pro2024\MinolovecGUI\MinolovecGUI\bin\Debug\MinolovecGUI.pdb
+C:\Pro2024\MinolovecGUI\MinolovecGUI\obj\Debug\MinolovecGUI.csproj.AssemblyReference.cache
+C:\Pro2024\MinolovecGUI\MinolovecGUI\obj\Debug\MinolovecGUI.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\MinolovecGUI\MinolovecGUI\obj\Debug\MinolovecGUI.Form1.resources
+C:\Pro2024\MinolovecGUI\MinolovecGUI\obj\Debug\MinolovecGUI.Properties.Resources.resources
+C:\Pro2024\MinolovecGUI\MinolovecGUI\obj\Debug\MinolovecGUI.csproj.GenerateResource.cache
+C:\Pro2024\MinolovecGUI\MinolovecGUI\obj\Debug\MinolovecGUI.csproj.CoreCompileInputs.cache
+C:\Pro2024\MinolovecGUI\MinolovecGUI\obj\Debug\MinolovecGUI.exe
+C:\Pro2024\MinolovecGUI\MinolovecGUI\obj\Debug\MinolovecGUI.pdb

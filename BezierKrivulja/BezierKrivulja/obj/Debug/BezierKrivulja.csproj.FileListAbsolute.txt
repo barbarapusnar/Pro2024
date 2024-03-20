@@ -1,0 +1,8 @@
+C:\Pro2024\BezierKrivulja\BezierKrivulja\bin\Debug\BezierKrivulja.dll
+C:\Pro2024\BezierKrivulja\BezierKrivulja\bin\Debug\BezierKrivulja.pdb
+C:\Pro2024\BezierKrivulja\BezierKrivulja\obj\Debug\BezierKrivulja.csproj.AssemblyReference.cache
+C:\Pro2024\BezierKrivulja\BezierKrivulja\obj\Debug\BezierKrivulja.bKontrolnik.resources
+C:\Pro2024\BezierKrivulja\BezierKrivulja\obj\Debug\BezierKrivulja.csproj.GenerateResource.cache
+C:\Pro2024\BezierKrivulja\BezierKrivulja\obj\Debug\BezierKrivulja.csproj.CoreCompileInputs.cache
+C:\Pro2024\BezierKrivulja\BezierKrivulja\obj\Debug\BezierKrivulja.dll
+C:\Pro2024\BezierKrivulja\BezierKrivulja\obj\Debug\BezierKrivulja.pdb
