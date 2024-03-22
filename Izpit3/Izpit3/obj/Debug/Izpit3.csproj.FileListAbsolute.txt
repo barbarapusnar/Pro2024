@@ -1,0 +1,11 @@
+C:\Pro2024\Izpit3\Izpit3\bin\Debug\Izpit3.exe.config
+C:\Pro2024\Izpit3\Izpit3\bin\Debug\Izpit3.exe
+C:\Pro2024\Izpit3\Izpit3\bin\Debug\Izpit3.pdb
+C:\Pro2024\Izpit3\Izpit3\obj\Debug\Izpit3.csproj.AssemblyReference.cache
+C:\Pro2024\Izpit3\Izpit3\obj\Debug\Izpit3.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\Izpit3\Izpit3\obj\Debug\Izpit3.Form1.resources
+C:\Pro2024\Izpit3\Izpit3\obj\Debug\Izpit3.Properties.Resources.resources
+C:\Pro2024\Izpit3\Izpit3\obj\Debug\Izpit3.csproj.GenerateResource.cache
+C:\Pro2024\Izpit3\Izpit3\obj\Debug\Izpit3.csproj.CoreCompileInputs.cache
+C:\Pro2024\Izpit3\Izpit3\obj\Debug\Izpit3.exe
+C:\Pro2024\Izpit3\Izpit3\obj\Debug\Izpit3.pdb
