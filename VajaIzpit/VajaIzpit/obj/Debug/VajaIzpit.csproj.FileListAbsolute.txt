@@ -1,0 +1,11 @@
+C:\Pro2024\VajaIzpit\VajaIzpit\bin\Debug\VajaIzpit.exe.config
+C:\Pro2024\VajaIzpit\VajaIzpit\bin\Debug\VajaIzpit.exe
+C:\Pro2024\VajaIzpit\VajaIzpit\bin\Debug\VajaIzpit.pdb
+C:\Pro2024\VajaIzpit\VajaIzpit\obj\Debug\VajaIzpit.csproj.AssemblyReference.cache
+C:\Pro2024\VajaIzpit\VajaIzpit\obj\Debug\VajaIzpit.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\VajaIzpit\VajaIzpit\obj\Debug\VajaIzpit.Form1.resources
+C:\Pro2024\VajaIzpit\VajaIzpit\obj\Debug\VajaIzpit.Properties.Resources.resources
+C:\Pro2024\VajaIzpit\VajaIzpit\obj\Debug\VajaIzpit.csproj.GenerateResource.cache
+C:\Pro2024\VajaIzpit\VajaIzpit\obj\Debug\VajaIzpit.csproj.CoreCompileInputs.cache
+C:\Pro2024\VajaIzpit\VajaIzpit\obj\Debug\VajaIzpit.exe
+C:\Pro2024\VajaIzpit\VajaIzpit\obj\Debug\VajaIzpit.pdb

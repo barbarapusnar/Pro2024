@@ -1,0 +1,8 @@
+C:\Pro2024\Izpit4\Izpit4\bin\Debug\Izpit4.exe.config
+C:\Pro2024\Izpit4\Izpit4\bin\Debug\Izpit4.exe
+C:\Pro2024\Izpit4\Izpit4\bin\Debug\Izpit4.pdb
+C:\Pro2024\Izpit4\Izpit4\obj\Debug\Izpit4.csproj.AssemblyReference.cache
+C:\Pro2024\Izpit4\Izpit4\obj\Debug\Izpit4.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\Izpit4\Izpit4\obj\Debug\Izpit4.csproj.CoreCompileInputs.cache
+C:\Pro2024\Izpit4\Izpit4\obj\Debug\Izpit4.exe
+C:\Pro2024\Izpit4\Izpit4\obj\Debug\Izpit4.pdb
